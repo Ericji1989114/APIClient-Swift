@@ -5,7 +5,7 @@
 
 * **Network Architecture**
 
-![image](https://github.com/Ericji1989114/GithubDM/blob/master/ScreenShot/Network%20Architecture.png)
+![image](https://github.com/Ericji1989114/APIClient-Swift/blob/master/ScreenShot/Network%20Architecture.png)
 
 * **APIProtocol** (Get the idea from Moya)
 
